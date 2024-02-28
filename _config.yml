@@ -1,0 +1,21 @@
+title: Software Tools for Supporting Network Science
+description: "A NetSci 2024 Satellite Workshop"
+
+timezone: Europe/Vienna
+
+navigation:
+  Home: "/"
+  Schedule: "/schedule"
+  Call for Abstracts: "/cfa"
+  "School / Workshop": "/school"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
