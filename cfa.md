@@ -6,7 +6,7 @@ layout: default
 
 We invite abstracts of presentations on all computational and software-focused topics relevant to network science, including but not limited to:
 
- - New network analysis tools; lesser-known or recently released packages are particularly encouraged to submit.
+ - New network analysis tools; submissions on lesser-known or recently released packages are particularly welcome.
  - Computing technologies relevant to the analysis or management of network data.
  - Updates on the development of established software tools.
 
