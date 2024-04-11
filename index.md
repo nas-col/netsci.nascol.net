@@ -16,7 +16,7 @@ Representatives of the following software packages will participate.
  - [grapht-tool](https://graph-tool.skewed.de/)
  - [NetworkX](https://networkx.org/)
  - [NetworKit](https://networkit.github.io/)
- - **TDB**
+ - *more to come*
 
 ## The Network Analysis Software Collective
 
