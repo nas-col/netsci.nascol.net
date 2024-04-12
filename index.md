@@ -25,6 +25,6 @@ The [Network Analysis Software Collective](https://nas-col.github.io/nascol-web/
 ## Organizers
 
  * [Szabolcs Horvát](http:/szhorvat.net), Reykjavik University, Reykjavík, Iceland; [igraph](https://igraph.org) team member.
- * [Tamás Nepusz](http://sixdegrees.hu/), co-author of [igraph](https://igraph.org), Hungary.
+ * [Tamás Nepusz](https://github.com/ntamas/), co-author of [igraph](https://igraph.org), Hungary.
  * [Tiago Peixoto](https://skewed.de/), Central European University, Vienna, Austria; author of [graph-tool](https://graph-tool.skewed.de/).
 

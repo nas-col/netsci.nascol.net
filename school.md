@@ -8,7 +8,7 @@ Tutorial on cross-package network analysis in Python using igraph, NetworkX and 
 
 Instructors:
 
- - [Tamás Nepusz](http://sixdegrees.hu/)
+ - [Tamás Nepusz](http://github.com/ntamas/)
  - [Tiago Peixoto](https://skewed.de/tiago/)
  - [Matt Schwennesen](http://www.schwennesen.org/)
  
