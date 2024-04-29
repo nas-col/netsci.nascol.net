@@ -13,9 +13,11 @@ Network analysis and graph theory software packages are essential tools for netw
 Representatives of the following software packages will participate.
 
  - [igraph](https://igraph.org)
- - [grapht-tool](https://graph-tool.skewed.de/)
+ - [graph-tool](https://graph-tool.skewed.de/)
  - [NetworkX](https://networkx.org/)
  - [NetworKit](https://networkit.github.io/)
+ - [CompleX Group Interactions (XGI)](https://xgi.readthedocs.io)
+ - [rustworkx](https://www.rustworkx.org/)
  - *more to come*
 
 ## The Network Analysis Software Collective
