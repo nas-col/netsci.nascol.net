@@ -8,6 +8,8 @@ The goal of the **Satellite on Network Science Software Tools** is to facilitate
 
 Network analysis and graph theory software packages are essential tools for network science research, and are also used extensively in many other disciplines. Even though most network scientists regularly rely on such tools, research software is not yet considered first-class output of academic work, on par with research publications. This presents challenges for the long-term sustainability of such tools. The launch of the first software-focused NetSci satellite is a small step towards remedying this situation.
 
+The event also serves to introduce [Network Analysis Software Collective](https://nascol.net) (NASCol) to the network science community.
+
 ## Invited participants
 
 Representatives of the following software packages will participate.
