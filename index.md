@@ -22,7 +22,7 @@ Representatives of the following software packages will participate.
 
 ## The Network Analysis Software Collective
 
-The [Network Analysis Software Collective](https://nas-col.github.io/nascol-web/) (NASCol) was recently launched as a collaboration of prominent network analysis software projects to promote cooperation and help make network science software sustainable in the long term.
+The [Network Analysis Software Collective](https://nascol.net) (NASCol) was recently launched as a collaboration of prominent network analysis software projects to promote cooperation and help make network science software sustainable in the long term.
 
 ## Organizers
 
