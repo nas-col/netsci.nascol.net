@@ -28,7 +28,7 @@ Representatives of the following software packages will participate.
 
 ## Organizers
 
- * [Szabolcs Horvát](http:/szhorvat.net), Reykjavik University, Reykjavík, Iceland; [igraph](https://igraph.org) team member.
+ * [Szabolcs Horvát](http://szhorvat.net), Reykjavik University, Reykjavík, Iceland; [igraph](https://igraph.org) team member.
  * [Tamás Nepusz](https://github.com/ntamas/), co-author of [igraph](https://igraph.org), Hungary.
  * [Tiago Peixoto](https://skewed.de/), Central European University, Vienna, Austria; author of [graph-tool](https://graph-tool.skewed.de/).
 

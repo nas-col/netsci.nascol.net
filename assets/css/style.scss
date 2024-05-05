@@ -26,11 +26,11 @@ $code-text-color: black;
 
 .btn {
     color: black;
-    background-color: #3498DB;
+    background-color: #a5b6ea;
 
 	&:hover {
 	    color: black;
-		background-color: #64b5f6;
+		background-color: #647ff6;
 	}
 }
 
@@ -52,7 +52,7 @@ $code-text-color: black;
   color: $header-heading-color;
   text-align: left;
   background-color: $header-bg-color;
-  background-image: url('/assets/images/banner_light.jpg');
+  background-image: url('/assets/images/netsci-banner.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
