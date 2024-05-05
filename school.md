@@ -4,7 +4,7 @@ layout: default
 
 # School / Workshop
 
-Tutorial on cross-package network analysis in Python using igraph, NetworkX and graph-tool.
+Tutorial on cross-package network analysis in Python using [igraph](https://python.igraph.org), [NetworkX](https://networkx.org) and [graph-tool](https://graph-tool.skewed.de/).
 
 Instructors:
 
