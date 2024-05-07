@@ -55,7 +55,7 @@ $code-text-color: black;
   background-image: url('/assets/images/netsci-banner.png');
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center;
+  background-position: bottom;
 
   @include large {
     padding: 2.5rem 6rem;
