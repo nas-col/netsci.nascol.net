@@ -30,3 +30,11 @@ implementations of supported algorithms from other graph analysis libraries like
 In this workshop, we'll cover how to get started with NetworkX as well as topics
 like graph visualization, some classical algorithms, graph input/output, a
 network analysis case study and finally the new dispatching system.
+
+### igraph
+
+TBA
+
+### graph-tool
+
+TBA
