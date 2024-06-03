@@ -4,7 +4,7 @@ layout: default
 
 # Schedule
 
-The satellite will take place on Tuesday, June 18 in the morning, followed by a hands-on tutorial in the afternoon.
+The satellite will take place on Tuesday, June 18, in the morning, followed by a hands-on tutorial in the afternoon.
 
 | Time  | Title                                                                                                  |
 |------:| -------------------------------------------------------------------------------------------------------|
@@ -19,7 +19,7 @@ The satellite will take place on Tuesday, June 18 in the morning, followed by a 
 | 11:40 – 12:00 | Josef Hoppe: **[Cell FLOWer][6]**                                                              |
 | 12:00 – 12:30 | **Community discussion on the state of network science software**                              |
 | 12:30 – 14:30 | **LUNCH BREAK**                                                                                |
-| 14:30 – 18:30 | **[Tutorials on cross-package network analysis in Python][7]**                                 |
+| 14:30 – 18:00 | **[Tutorials on cross-package network analysis in Python][7]**                                 |
 
 [1]: abstracts/networkit
 [2]: abstracts/raphtory
