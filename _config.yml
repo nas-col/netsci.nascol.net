@@ -18,4 +18,6 @@ kramdown:
 plugins:
   - jekyll-seo-tag
 
+include: ['abstracts']
+
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
