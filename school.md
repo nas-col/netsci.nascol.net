@@ -22,6 +22,8 @@ The workshop will be roughly broken up into three parts, one for each library.
 
 ### NetworkX
 
+Time: 14:30 – 15:30
+
 NetworkX is a pure-python library for network analysis which aims to be both
 easy to install and easy to use while also being feature rich. Currently the
 library features around 400 network analysis algorithms ranging from classics
@@ -35,10 +37,14 @@ In this workshop, we'll cover how to get started with NetworkX as well as topics
 like graph visualization, some classical algorithms, graph input/output, a
 network analysis case study and finally the new dispatching system.
 
-### igraph
+### graph-tool
+
+Time: 15:30 to 17:00, with coffee break between 16:00 – 16:30
 
 TBA
 
-### graph-tool
+### igraph
+
+Time: 17:00 – 18:00
 
 TBA
