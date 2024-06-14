@@ -117,4 +117,24 @@ extensions](https://graph-tool.skewed.de/static/doc/demos/cppextensions/cppexten
 
 Time: 17:00 – 18:00
 
-TBA
+[igraph](https://igraph.org) is a collection of network analysis tools with the
+emphasis on efficiency, portability and ease of use. The core of igraph is
+implemented in C and C++, with higher-level interfaces for R, Python and
+Mathematica.
+
+[igraph](https://igraph.org) is a high-performance general-purpose library for
+complex network analysis, designed to be used from high-level languages like R,
+Python and Mathematica. The core library and data structures are implemented in
+C and C++, making it suitable for the analysis of large networks consisting of
+millions of vertices and even billions of edges given enough RAM.
+
+In this workshop, we will cover the basics of getting started with igraph,
+including the essential graph generation and graph analysis methods and the
+attribute handling system. We will cover the creation of publication-quality
+plots using [Cairo](https://www.cairographics.org/) or
+[Matplotlib](https://matplotlib.org/) as backends, graph input/output,
+in-memory conversion to other popular tools such as
+[NetworkX](https://networkx.org) and
+[graph-tool](https://graph-tool.skewed.de), and a few popular algoritms used in
+network science like community detection algorithms and motif search.
+
