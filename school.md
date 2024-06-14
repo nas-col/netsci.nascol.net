@@ -117,11 +117,6 @@ extensions](https://graph-tool.skewed.de/static/doc/demos/cppextensions/cppexten
 
 Time: 17:00 – 18:00
 
-[igraph](https://igraph.org) is a collection of network analysis tools with the
-emphasis on efficiency, portability and ease of use. The core of igraph is
-implemented in C and C++, with higher-level interfaces for R, Python and
-Mathematica.
-
 [igraph](https://igraph.org) is a high-performance general-purpose library for
 complex network analysis, designed to be used from high-level languages like R,
 Python and Mathematica. The core library and data structures are implemented in
