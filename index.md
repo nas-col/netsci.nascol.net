@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Taking place Tuesday room 2101 (morning, satellite) and 2104AB (afternoon, school). See the [schedule](schedule).**
+**Taking place Tuesday, in room 2101 (morning, satellite) and in room 2104AB (afternoon, school). See the [schedule](schedule).**
 
 ## Welcome
 

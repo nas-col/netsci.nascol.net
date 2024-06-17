@@ -8,9 +8,9 @@ Tutorial on cross-package network analysis in Python using [igraph](https://pyth
 
 ## Time and place
 
-Location: Room 2104AB
+Location: **room 2104AB**
 
-Time: 14:30 to 18:00 with a coffee break between 16:00–16:30.
+Time: **14:30 to 18:00** with a coffee break between 16:00–16:30.
 
 ## Instructors:
 
