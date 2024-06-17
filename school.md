@@ -6,9 +6,11 @@ layout: default
 
 Tutorial on cross-package network analysis in Python using [igraph](https://python.igraph.org), [NetworkX](https://networkx.org) and [graph-tool](https://graph-tool.skewed.de/).
 
-## Time
+## Time and place
 
-14:30 to 18:00 with a coffee break between 16:00–16:30.
+Location: Room 2104AB
+
+Time: 14:30 to 18:00 with a coffee break between 16:00–16:30.
 
 ## Instructors:
 

@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Taking place Tuesday room 2101 (morning, satellite) and 2104AB (afternoon, school). See the [schedule](schedule).**
+
 ## Welcome
 
 The **Software Tools for Supporting Network Science** event is a satellite meeting of [NetSci 2024](https://netsci2024.com/). The goal of the event is to facilitate communication and cooperation between the users and developers of network analysis sofware packages, as well as to provide a venue for presenting software-focused work at NetSci. **We encourage NetSci participants [to submit abstracts of software-related talks](cfa).**
@@ -24,7 +26,6 @@ Representatives of the following software packages will participate.
  - [NetworKit](https://networkit.github.io/)
  - [CompleX Group Interactions (XGI)](https://xgi.readthedocs.io)
  - [rustworkx](https://www.rustworkx.org/)
- - *more to come*
 
 ## Organizers
 
