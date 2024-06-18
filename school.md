@@ -124,6 +124,8 @@ Time: 17:00 – 18:00
 > An IPython notebook containing the material of the tutorial is available on
 > Google Colab
 > [here](https://colab.research.google.com/drive/16xPmEeGUbXtNkD_BmKM0Wo4AOGmqHfnM?usp=sharing).
+> The Zachary karate club network used in the tutorial is available
+> [here](/assets/files/zachary.graphml).
 
 [igraph](https://igraph.org) is a high-performance general-purpose library for
 complex network analysis, designed to be used from high-level languages like R,
