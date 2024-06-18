@@ -124,6 +124,7 @@ Time: 17:00 – 18:00
 > An IPython notebook containing the material of the tutorial is available on
 > Google Colab
 > [here](https://colab.research.google.com/drive/16xPmEeGUbXtNkD_BmKM0Wo4AOGmqHfnM?usp=sharing).
+> You can also download a copy of the notebook [here](/assets/files/netsci2024-igraph-notebook.zip).
 > The Zachary karate club network used in the tutorial is available
 > [here](/assets/files/zachary.graphml).
 
