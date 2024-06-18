@@ -39,6 +39,8 @@ In this workshop, we'll cover how to get started with NetworkX as well as topics
 like graph visualization, some classical algorithms, graph input/output, a
 network analysis case study and finally the new dispatching system.
 
+Tutorial material can be found [here](https://colab.research.google.com/drive/1NPAvlqeWzehb337kp4EHuleQ6b11HzuL?usp=sharing).
+
 ### graph-tool
 
 Time: 15:30 to 17:00, with coffee break between 16:00 – 16:30
