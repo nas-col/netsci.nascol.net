@@ -121,6 +121,10 @@ extensions](https://graph-tool.skewed.de/static/doc/demos/cppextensions/cppexten
 
 Time: 17:00 – 18:00
 
+> An IPython notebook containing the material of the tutorial is available on
+> Google Colab
+> [here](https://colab.research.google.com/drive/16xPmEeGUbXtNkD_BmKM0Wo4AOGmqHfnM?usp=sharing).
+
 [igraph](https://igraph.org) is a high-performance general-purpose library for
 complex network analysis, designed to be used from high-level languages like R,
 Python and Mathematica. The core library and data structures are implemented in
