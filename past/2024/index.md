@@ -33,5 +33,3 @@ Representatives of the following software packages will participate.
  * [Tamás Nepusz](https://github.com/ntamas/), co-author of [igraph](https://igraph.org), Hungary.
  * [Tiago Peixoto](https://skewed.de/), Central European University, Vienna, Austria; author of [graph-tool](https://graph-tool.skewed.de/).
 
-## Past editions
-* [2024](/past/2024/index.md)

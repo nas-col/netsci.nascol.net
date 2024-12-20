@@ -1,0 +1,23 @@
+title: Software Tools for Network Science
+description: "A NetSci 2024 Satellite Workshop<br><span style='font-size: 80%'>18 June 2024, Québec City, Canada</span>"
+
+timezone: Atlantic/Reykjavik
+
+navigation:
+  Home: "/"
+  Schedule: "/schedule"
+  Call for Abstracts: "/cfa"
+  "School / Workshop": "/school"
+
+markdown: kramdown
+
+kramdown:
+  parse_span_html: true
+  parse_block_html: true
+
+plugins:
+  - jekyll-seo-tag
+
+include: ['abstracts']
+
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
