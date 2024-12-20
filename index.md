@@ -2,36 +2,32 @@
 layout: default
 ---
 
-**Taking place Tuesday, in room 2101 (morning, satellite) and in room 2104AB (afternoon, school). See the [schedule](schedule).**
-
 ## Welcome
 
-The **Software Tools for Supporting Network Science** event is a satellite meeting of [NetSci 2024](https://netsci2024.com/). The goal of the event is to facilitate communication and cooperation between the users and developers of network analysis sofware packages, as well as to provide a venue for presenting software-focused work at NetSci. **We encourage NetSci participants [to submit abstracts of software-related talks](cfa).**
+The **Software and Data for Supporting Network Science** event is a satellite meeting of [NetSci 2025](https://netsci2025.github.io/). The goal of the event is to facilitate communication and cooperation between the users and developers of network analysis sofware packages, as well as to provide a venue for presenting software-focused work at NetSci. **We encourage NetSci participants [to submit abstracts](cfa) of software and data-related talks.**
 
-Network analysis and graph theory software packages are essential tools for network science research, and are also used extensively in many other disciplines. Even though most network scientists regularly rely on such tools, research software is not yet considered first-class output of academic work, on par with research publications. This presents challenges for the long-term sustainability of such tools. The launch of the first software-focused NetSci satellite is a small step towards remedying this situation.
+Network analysis software packages and standardized datasets are essential tools for network science research, and are also used extensively in many other disciplines. Even though most network scientists regularly rely on such tools, research software is not yet considered first-class output of academic work, on par with research publications. This presents challenges for the long-term sustainability of such tools. This software and data-focused NetSci satellite is a small step towards remedying this situation.
 
-The event also serves to introduce [Network Analysis Software Collective](https://nascol.net) (NASCol) to the network science community.
+This event is organized by members of the [Network Analysis Software Collective](https://nascol.net) (NASCol).
 
 ## The Network Analysis Software Collective
 
-The [Network Analysis Software Collective](https://nascol.net) (NASCol) was recently launched as a collaboration of prominent network analysis software projects to promote cooperation and help make network science software sustainable in the long term. The satellite meeting will serve as an opportunity to expand NASCol and strengthen collaboration within the nertwork science software ecosystem.
+The [Network Analysis Software Collective](https://nascol.net) (NASCol) is a collaboration of prominent network analysis software projects to promote cooperation and help make network science software sustainable in the long term. The satellite meeting will serve as an opportunity to expand NASCol and strengthen collaboration within the nertwork science software ecosystem.
 
 ## Invited participants
 
-Representatives of the following software packages will participate.
+Representatives of the following datasets and software packages will participate.
 
- - [igraph](https://igraph.org)
- - [graph-tool](https://graph-tool.skewed.de/)
- - [NetworkX](https://networkx.org/)
- - [NetworKit](https://networkit.github.io/)
- - [CompleX Group Interactions (XGI)](https://xgi.readthedocs.io)
- - [rustworkx](https://www.rustworkx.org/)
+ - [Hypergraph Interchange Format (HIF)](https://github.com/pszufe/HIF-standard)
+ - [manynet](https://stocnet.github.io/manynet/)
 
 ## Organizers
 
- * [Szabolcs Horvát](http://szhorvat.net), Reykjavik University, Reykjavík, Iceland; [igraph](https://igraph.org) team member.
- * [Tamás Nepusz](https://github.com/ntamas/), co-author of [igraph](https://igraph.org), Hungary.
- * [Tiago Peixoto](https://skewed.de/), Central European University, Vienna, Austria; author of [graph-tool](https://graph-tool.skewed.de/).
+ * [Nicholas Landry](http://landry-lab.github.io), University of Virginia, Virginia, USA; [XGI](https://xgi.readthedocs.io) team member.
+ * [Vincent Traag](https://www.traag.net/), Leiden University, Leiden, NL; [igraph](https://igraph.org) team member.
+ * [Zachary Neal](https://www.zacharyneal.com/), Michigan State University, Michigan, USA; author of [incidentally](https://github.com/zpneal/incidentally), [backbone](https://github.com/zpneal/backbone), and [grand](https://github.com/zpneal/grand).
+ * [Brooke Foucault Welles](https://brooke-welles.squarespace.com/), Northeastern University, Massachusetts, USA.
+ * [Milo Trujillo](https://www.networkscienceinstitute.org/people/milo-trujillo), Northeastern University, Massachusetts, USA.
 
 ## Past editions
 * [2024](/past/2024/index.md)
