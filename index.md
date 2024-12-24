@@ -28,6 +28,3 @@ Representatives of the following datasets and software packages will participate
  * [Zachary Neal](https://www.zacharyneal.com/), Michigan State University, Michigan, USA; author of [incidentally](https://github.com/zpneal/incidentally), [backbone](https://github.com/zpneal/backbone), and [grand](https://github.com/zpneal/grand).
  * [Brooke Foucault Welles](https://brooke-welles.squarespace.com/), Northeastern University, Massachusetts, USA.
  * [Milo Trujillo](https://www.networkscienceinstitute.org/people/milo-trujillo), Northeastern University, Massachusetts, USA.
-
-## Past editions
-* [2024](/past/2024/index.md)
