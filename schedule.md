@@ -4,8 +4,6 @@ layout: default
 
 # Schedule
 
-The satellite will take place on Tuesday, June 18, in room 2101 in the morning, followed by a hands-on tutorial in room 2104AB in the afternoon.
-
 | Time  | Title                                                                                                  |
 |------:| -------------------------------------------------------------------------------------------------------|
 |   9:00 - 9:05 | **Welcome and introduction**                                                                   |
