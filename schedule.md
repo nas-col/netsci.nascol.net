@@ -8,23 +8,12 @@ The satellite will take place on Tuesday, June 18, in room 2101 in the morning, 
 
 | Time  | Title                                                                                                  |
 |------:| -------------------------------------------------------------------------------------------------------|
-|  9:00 –  9:05 | **Welcome and introduction**                                                                   |
-|  9:05 –  9:25 | Vincent Traag:  **Introducing the [Network Analysis Software Collective](https://nascol.net)** |
-|  9:30 –  9:50 | Fabian Brandt-Tumescheit: **[NetworKit][1]**                                                   |
-|  9:50 – 10:10 | Naomi Arnold: **[Raphtory][2]**                                                                |
-| 10:10 – 10:30 | Nicholas Landry: **[CompleX Group Interactions (XGI)][3]**                                     |
-| 10:30 – 11:00 | **COFFEE BREAK**                                                                               |
-| 11:00 – 11:20 | Matthew Treinish: **[rustworkx][4]**                                                           |
-| 11:20 – 11:40 | Rémy Cazabet: **[Structify-Net][5]**                                                           |
-| 11:40 – 12:00 | Josef Hoppe: **[Cell FLOWer][6]**                                                              |
-| 12:00 – 12:30 | **Community discussion on the state of network science software**                              |
-| 12:30 – 14:30 | **LUNCH BREAK**                                                                                |
-| 14:30 – 18:00 | **[Tutorials on cross-package network analysis in Python][7]**                                 |
-
-[1]: abstracts/networkit
-[2]: abstracts/raphtory
-[3]: abstracts/xgi
-[4]: abstracts/rustworkx
-[5]: abstracts/structify-net
-[6]: abstracts/cell-flower
-[7]: school
+|   9:00 - 9:05 | **Welcome and introduction**                                                                   |
+|  9:10 - 10:30 | Data-focused short talks                                                                       |
+| 10:30 - 11:00 | Break                                                                                          |
+| 11:00 - 12:00 | Community discussion on network data (led by Zachary Neal)                                     |
+| 12:00 - 13:00 | Software-focused short talks                                                                   |
+| 13:00 - 14:00 | Lunch break                                                                                    |
+| 14:00 - 15:20 | Software-focused short talks                                                                   |
+| 15:30 - 16:00 | Break                                                                                          |
+| 16:00 - 17:30 | Software and data “resource fair”                                                              |
