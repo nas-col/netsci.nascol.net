@@ -19,7 +19,7 @@ The [Network Analysis Software Collective](https://nascol.net) (NASCol) is a col
 Representatives of the following datasets and software packages will participate.
 
  - [Hypergraph Interchange Format (HIF)](https://github.com/pszufe/HIF-standard)
- - [manynet](https://stocnet.github.io/manynet/)
+ - [BlueSky Starter Packs](https://asmithh.github.io/)
 
 ## Organizers
 
