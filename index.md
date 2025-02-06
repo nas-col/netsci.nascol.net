@@ -21,7 +21,7 @@ Representatives of the following datasets and software packages will participate
  - [BlueSky Starter Packs](https://asmithh.github.io/)
  - [graph-tool](https://graph-tool.skewed.de/)
  - [Hypergraph Interchange Format (HIF)](https://github.com/pszufe/HIF-standard)
- - [igraph](https://xgi.readthedocs.io/)
+ - [igraph](https://igraph.org/)
  - [pymnet](https://mnets.github.io/pymnet/index.html)
  - [XGI](https://xgi.readthedocs.io/)
 
