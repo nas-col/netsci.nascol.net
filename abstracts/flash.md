@@ -15,7 +15,7 @@ layout: default
  - Steer, B, et al. [Raphtory: The temporal graph engine for Rust and Python](https://arxiv.org/abs/2306.16309). _arXiv preprint_.
 
 
- ## CompleX Group Interactions (XGI)
+## CompleX Group Interactions (XGI)
 
 **Speaker:** Nicholas Landry
 
