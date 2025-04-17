@@ -13,7 +13,7 @@ layout: default
 | 10:30 - 11:00 | Break                                                                                          |
 | 11:00 - 11:50 | Discussion on reporting network data (Led by [Zachary Neal](https://www.zacharyneal.com/))     |
 | 11:50 - 12:10 | [pymnet](abstracts/pymnet.md) (Arash Badie-Modiri)                                             |
-| 12:10 - 12:55 | [HypergraphX](abstracts/hypergraphx.md) (Quintino Francesco Lotito)                            |
+| 12:10 - 12:55 | [Hypergraphx](abstracts/hypergraphx.md) (Quintino Francesco Lotito)                            |
 | 12:10 - 12:55 | [ProbINet](abstracts/probinet.md) (Diego Baptista Theuerkauf)                                  |
 | 12:10 - 12:55 | [Flow Stability](abstracts/flow-stability.md) (Alexandre Bovet)                                |
 | 13:00 - 14:00 | Lunch break                                                                                    |

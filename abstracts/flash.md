@@ -2,6 +2,14 @@
 layout: default
 ---
 
+## graph-tool
+
+## Hypergraphx
+
+## HyperNetX
+
+## igraph
+
 ## Raphtory: fast temporal network analysis in Python, powered by Rust
 
 **Speaker:** Naomi Arnold
