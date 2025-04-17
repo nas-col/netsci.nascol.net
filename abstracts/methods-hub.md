@@ -6,7 +6,7 @@ layout: default
 
 **Speaker:** [Chung-hong Chan](https://github.com/chainsawriot)
 
-**Website:** [https://www.raphtory.com/](https://www.raphtory.com/)
+**Website:** 
 
 **Abstract:** "Datasets of users' digital behavior on social media are intrinsically relational. Computational methods are essential for analyzing the network structures in these potentially large datasets. However, many researchers, especially in the social sciences, struggle with the accessibility, usability, and applicability of these tools. On the other hand, tool developers may find it difficult to attract a large user base for their tools. This challenge of discoverability has been partially solved by online collections of tools such as Network Analysis Software Collective (NASCol, https://www.nascol.net/packages/). 
 

@@ -18,11 +18,19 @@ The [Network Analysis Software Collective](https://nascol.net) (NASCol) is a col
 
 Representatives of the following datasets and software packages will participate.
 
- - [BlueSky Starter Packs](https://asmithh.github.io/)
+ - [Bluesky starter packs](https://asmithh.github.io/)
+ - [Child and adolescent friendship networks](https://osf.io/5y2dt/)
+ - [flow stability](https://github.com/alexbovet/flow_stability)
  - [graph-tool](https://graph-tool.skewed.de/)
+ - [Helios-Web](https://heliosweb.io)
  - [Hypergraph Interchange Format (HIF)](https://github.com/pszufe/HIF-standard)
+ - [Hypergraphx](https://github.com/HGX-Team/hypergraphx)
+ - [HyperNetX](https://hypernetx.readthedocs.io)
+ - Methods Hub
  - [igraph](https://igraph.org/)
+ - [ProbINet](https://github.com/MPI-IS/probinet)
  - [pymnet](https://mnets.github.io/pymnet/index.html)
+ - [Raphtory](https://www.raphtory.com/)
  - [XGI](https://xgi.readthedocs.io/)
 
 ## Organizers
