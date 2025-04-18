@@ -4,7 +4,7 @@ layout: default
 
 ## Shared data on child and adolescent friendship networks
 
-**Speaker:** [Jennifer Neal](https://www.jennawneal.com/)
+**Speaker:** [Jennifer Watling Neal](https://www.jennawneal.com/)
 
 **Website:** [https://osf.io/5y2dt/](https://osf.io/5y2dt/)
 

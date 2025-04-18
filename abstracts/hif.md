@@ -2,10 +2,12 @@
 layout: default
 ---
 
-## HIF
+## HIF: The Hypergraph Interchange Format for higher-order networks
 
 **Speaker:** [Martín Coll](https://github.com/colltoaction)
 
-**Website:**
+**Website:** [https://github.com/pszufe/HIF-standard](https://github.com/pszufe/HIF-standard)
 
-**Abstract:** 
+**Abstract:** Many empirical systems in biology, social sciences, computer science contain interactions of arbitrary size, such as chemical reactions, social groups, and email messages. Higher-order networks, or *hypergraphs*, have established themselves as a popular and versatile tool for modeling these group interactions. Several software packages written in various programming languages (Python, Julia) enable the manipulation of hypergraphs and analysis of their properties. In this fragmented ecosystem, there is a need for a standardized higher-order data format to enable easy exchange of higher-order datasets between software libraries.
+
+In this work, we introduce the Hypergraph Interchange Format (HIF), a standardized framework for representing higher-order network data. HIF is designed to enable seamless data exchange between higher-order network analysis software packages. To accommodate the wide variety of attributes used in different contexts, HIF includes attribute support across nodes, edges, and incidences. However, it is essential to distinguish between structural properties, such as directionality in incidences and weight in nodes and edges, and other attributes. These structural properties are maintained as top-level elements, separate from general attributes. HIF currently supports multiple network types, including simplicial complexes, directed hypergraphs, and undirected hypergraphs, while actively exploring extensions to represent multiplex hypergraphs, temporal hypergraphs, and ordered hypergraphs. This initiative is a collaborative effort involving authors, maintainers, and contributors from prominent hypergraph software packages, including HypergraphX, HyperNetX, XGI, and SimpleHypergraphs.jl. The project is open-source and available on GitHub. The repository contains: (1) a JSON schema with HIF data exchange format definition, (2) a test suite to verify the schema against correct and incorrect formats, (3) example datasets in the HIF standard, and (4) tutorials on using each library in the context of HIF. The HIF standard is a robust framework that grew from the real needs of scientists in open-source projects to interoperate and reuse each other's effort. This project also contains a process for modifying this standard in response to community contributions and the evolution of the field of higher-order network science.
