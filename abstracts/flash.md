@@ -6,13 +6,24 @@ layout: default
 
 ## Hypergraphx
 
-## HyperNetX
+**Speaker:** [Quintino Francesco Lotito](https://github.com/FraLotito)
+
+**Website:** [https://github.com/HGX-Team/hypergraphx](https://github.com/HGX-Team/hypergraphx)
+
+**Abstract:** In the last few decades, networks have emerged as the natural tool to model a wide variety of natural, social and man-made systems. Networks, collections of nodes and links, capture dyadic interactions only. However, in many real-world systems units interact in groups of three or more. Examples include cellular networks, brain networks, and collaboration networks. These higher-order interactions can be naturally described by hypergraphs, where hyperedges connect groups of nodes of arbitrary size. In parallel with theoretical and methodological progress, a crucial role in advancing network science has been played by developing efficient algorithms and computational tools to analyze networked data. Nowadays, widely used, community-based software such as NetworkX and igraph, and individual efforts such as graph-tool -- just to mention a few -- have enabled thousands of researchers to perform multi-faceted, large-scale network analysis of relational data.
+
+Only recently, some early contributions have started to develop computational tools to match the explosion of interest in higher-order systems. Here, we provide our contribution by presenting hypergraphx (HGX), a multi-purpose, open-source python library for the analysis of networked systems with higher-order interactions. HGX aims to provide, as a single source, a comprehensive suite of tools and algorithms for constructing, storing, analysing and visualizing systems with higher-order interactions. The library includes different ways to convert data across distinct higher-order representations, a large variety of measures of higher-order organization at the local and the mesoscale, statistical filters to sparsify higher-order data, a wide array of static and dynamic generative models, an implementation of different dynamical processes, from epidemics to diffusion and synchronization, with higher-order interactions, and more. Our computational framework allows the analysis of hypergraphs with weighted, directed, signed, temporal and multiplex group interactions.  Moreover, we accompany our library with an easily accessible and well-curated data repository, functioning as a unifying source of datasets for the analysis of higher-order systems. The recent explosion of higher-order relational data has led to novel methodologies to study higher-order systems, which in turn require extensive datasets to be tested and validated.  A few of these data are inherently higher-order. Several others, instead, have originally been investigated with pairwise approaches, but have recently been re-explored under the new lens of higher-order network analysis. Beyond experts in the field, we hope that our library will make higher-order network analysis accessible to everyone interested in exploring the higher-order dimension of relational data, and invite the community to explore the library, and the related tutorials and contribute.
+
+**Reference:**
+
+* Lotito, Q. F., et al. (2023). Hypergraphx: a library for higher-order network analysis. Journal of Complex Networks, 11(3). https://doi.org/10.1093/comnet/cnad019
+
 
 ## igraph
 
 ## Raphtory: fast temporal network analysis in Python, powered by Rust
 
-**Speaker:** Naomi Arnold
+**Speaker:** [Chieck Ba](https://back7.github.io)
 
 **Website:** [https://www.raphtory.com/](https://www.raphtory.com/)
 
@@ -20,12 +31,12 @@ layout: default
 
 **Reference:**
 
- - Steer, B, et al. [Raphtory: The temporal graph engine for Rust and Python](https://arxiv.org/abs/2306.16309). _arXiv preprint_.
+* Steer et al., (2024). [Raphtory: The temporal graph engine for Rust and Python](https://doi.org/10.21105/joss.05940). Journal of Open Source Software, 9(95), 5940.
 
 
 ## CompleX Group Interactions (XGI)
 
-**Speaker:** Nicholas Landry
+**Speaker:** [Nicholas Landry](https://landry-lab.github.io)
 
 **Website:** [https://xgi.readthedocs.io](https://xgi.readthedocs.io)
 
@@ -33,4 +44,4 @@ layout: default
 
 **Reference:**
 
- - Landry et al., (2023). [XGI: A Python package for higher-order interaction networks](https://doi.org/10.21105/joss.05162). Journal of Open Source Software, 8(85), 5162.
+* Landry et al., (2023). [XGI: A Python package for higher-order interaction networks](https://doi.org/10.21105/joss.05162). Journal of Open Source Software, 8(85), 5162.
