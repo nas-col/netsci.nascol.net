@@ -9,7 +9,7 @@ layout: default
 |  9:00 -  9:05 | **Welcome and introduction**                                                                         |
 |  9:05 -  9:50 | Discussion on sharing network data (Led by [Zachary Neal](https://www.zacharyneal.com/))             |
 |  9:50 - 10:10 | [Hypergraph Interchange Format](abstracts/hif.md) (Martín Coll)                                      |
-| 10:10 - 10:30 | [Bluesky network data](abstracts/bluesky.md) (Sagar Kumar)                                           |
+| 10:10 - 10:30 | [A Blue Start](abstracts/bluesky.md) (Sagar Kumar)                                           |
 | 10:30 - 11:00 | Break                                                                                                |
 | 11:00 - 11:50 | Discussion on reporting network data (Led by [Zachary Neal](https://www.zacharyneal.com/))           |
 | 11:50 - 12:10 | [pymnet](abstracts/pymnet.md) (Arash Badie-Modiri)                                                   |

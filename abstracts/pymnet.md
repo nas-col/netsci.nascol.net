@@ -6,6 +6,6 @@ layout: default
 
 **Speaker:** [Arash Badie-Modiri](https://vaalit.arash.network)
 
-**Website:**
+**Website:** [https://mnets.github.io](https://mnets.github.io/)
 
-**Abstract:** 
+**Abstract:** TBD

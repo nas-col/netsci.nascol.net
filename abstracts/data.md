@@ -6,6 +6,4 @@ layout: default
 
 **Speaker:** [Corinna Coupette](https://www.coupette.io)
 
-**Website:**
-
-**Abstract:** 
+**Abstract:** TBD
