@@ -21,6 +21,16 @@ Only recently, some early contributions have started to develop computational to
 
 ## igraph
 
+**Speaker:** [Vincent Traag](https://www.traag.net/)
+
+**Website:** [https://igraph.org](https://igraph.org)
+
+**Abstract:** Networks or graphs are widely used across the sciences to represent relationships of many kinds. igraph (https://igraph.org) is a general-purpose software library for graph construction, analysis, and visualisation, combining fast and robust performance with a low entry barrier. igraph pairs a fast core written in C with beginner-friendly interfaces in Python, R, and Mathematica. Over the last two decades, igraph has expanded substantially. It now scales to billions of edges, supports Mathematica and interactive plotting, integrates with Jupyter notebooks and other network libraries, includes new graph layouts and community detection algorithms, and has streamlined the documentation with examples and Spanish translations. Modern testing features such as continuous integration, address sanitizers, stricter typing, and memory-managed vectors have also increased robustness. Hundreds of bug reports have been fixed and a community forum has been opened to connect users and developers. Specific effort has been made to broaden use and community participation by women, nonbinary people, and other demographic groups typically underrepresented in open source software.
+
+**Reference:**
+
+* Antonov, Michael, Gábor Csárdi, Szabolcs Horvát, Kirill Müller, Tamás Nepusz, Daniel Noom, Maëlle Salmon, Vincent Traag, Brooke Foucault Welles, and Fabio Zanini. 2023. “Igraph Enables Fast and Robust Network Analysis across Programming Languages.” arXiv. https://doi.org/10.48550/arXiv.2311.10260.
+
 ## Raphtory: fast temporal network analysis in Python, powered by Rust
 
 **Speaker:** [Chieck Ba](https://back7.github.io)
