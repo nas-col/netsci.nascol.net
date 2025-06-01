@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## Location
+
+The satellite will be held at [FPN Groene zaal](https://maps.app.goo.gl/yTF7bU3pdtQfGmG78).
+
 ## Welcome
 
 The **Software and Data for Supporting Network Science** event is a satellite meeting of [NetSci 2025](https://netsci2025.github.io/). The goal of the event is to facilitate communication and cooperation between the users and developers of network analysis sofware packages, as well as to provide a venue for presenting software-focused work at NetSci. **We encourage NetSci participants [to submit abstracts](cfa) of software and data-related talks.**
